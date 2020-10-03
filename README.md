@@ -9,7 +9,6 @@
     <br />
     <a href="https://github.com/th-ms/PogBot"><strong>Explore the docs »</strong></a>
     <br />
-    ·
     <a href="https://github.com/th-ms/PogBot">Report Bug</a>
     ·
     <a href="https://github.com/th-ms/PogBot">Request Feature</a>
