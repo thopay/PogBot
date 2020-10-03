@@ -36,7 +36,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="https://media.discordapp.net/attachments/562041975797317643/761766143592628234/example.png?width=960&height=496">
+<img src="https://media.discordapp.net/attachments/562041975797317643/761773171346374676/carbon_3.png?width=960&height=496">
 
 I've been working with requests and Supreme for a while now, so I figured it makes sense to open-source a simple ATC script.
 
