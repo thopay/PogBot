@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/562041975797317643/761764121627852830/pogbotshadow.pngwidth=256&height=256">
+  <img src="https://media.discordapp.net/attachments/562041975797317643/761764121627852830/pogbotshadow.png?width=256&height=256">
   <h3 align="center">PogBot</h3>
 
   <p align="center">
