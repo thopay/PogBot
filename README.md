@@ -7,11 +7,11 @@
   <p align="center">
     Automating the process of adding to cart and autofilling information with Supreme.
     <br />
-    <a href="https://github.com/th-ms/PogBot"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/thopay/PogBot"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://github.com/th-ms/PogBot">Report Bug</a>
+    <a href="https://github.com/thopay/PogBot">Report Bug</a>
     ·
-    <a href="https://github.com/th-ms/PogBot">Request Feature</a>
+    <a href="https://github.com/thopay/PogBot">Request Feature</a>
   </p>
 </p>
 
@@ -67,7 +67,7 @@ npm install npm@latest -g
 
 1. Clone the repo
 ```sh
-git clone https://github.com/th-ms/PogBot.git
+git clone https://github.com/thopay/PogBot.git
 ```
 2. Install NPM packages
 ```sh
@@ -95,7 +95,7 @@ Save it and run the script.
 * Edit the script so that it monitors item if it's OOS or not live yet
 * Add random color option
 
-See the [open issues](https://github.com/th-ms/PogBot/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/thopay/PogBot/issues) for a list of proposed features (and known issues).
 
 
 
@@ -124,4 +124,4 @@ Distributed under the MIT License.
 
 Thomas - [@th___mas](https://twitter.com/th___mas) - contact@th-mas.dev 
 
-Project Link: [https://github.com/th-ms/PogBot](https://github.com/th-ms/PogBot)
+Project Link: [https://github.com/thopay/PogBot](https://github.com/thopay/PogBot)
