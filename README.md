@@ -5,7 +5,7 @@
   <h3 align="center">PogBot</h3>
 
   <p align="center">
-    Automating the process of adding to cart and autofilling information with Supreme.
+    Automating the process of adding to cart and autofilling information with Supreme. (Obsolete as Supreme moved to Shopify)
     <br />
     <a href="https://github.com/thopay/PogBot"><strong>Explore the docs »</strong></a>
     <br />
